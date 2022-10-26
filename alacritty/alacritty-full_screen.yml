@@ -1,0 +1,31 @@
+env:
+  TERM: alacritty
+
+# Curso style
+cursor:
+  style:
+    shape: Beam
+    blinking: on
+
+
+# Fonts
+font:
+  normal:
+    family: Hack
+    style: regular
+  bold:
+    family: Hack
+    style: bold
+  italic:
+    family: Hack
+    style: italic
+
+window:
+  opacity: 0.7
+  startup_mode: fullscreen
+  dynamic_title: false
+  title: main_term
+
+import:
+  #- ~/.config/alacritty/alacritty-theme/themes/tomorrow_night_bright.yaml
+  - ~/.config/alacritty/alacritty-theme/themes/hyper.yaml
