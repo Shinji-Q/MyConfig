@@ -1,0 +1,6 @@
+i3-gaps
+alacritty
+zsh
+nvim
+qutebrowser
+xmodmap
